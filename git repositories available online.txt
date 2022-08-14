@@ -8,3 +8,5 @@ git@github.com:academic/awesome-datascience.git
 git@github.com:kmario23/deep-learning-drizzle.git
 git@github.com:ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.git
 git@github.com:Machine-Learning-Tokyo/Interactive_Tools.git
+
+Some change
