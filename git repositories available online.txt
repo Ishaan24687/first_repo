@@ -1,0 +1,10 @@
+git@github.com:freeCodeCamp/freeCodeCamp.git
+git@github.com:tensorflow/tensorflow.git
+git@github.com:TheAlgorithms/Python.git
+git@github.com:josephmisiti/awesome-machine-learning.git
+git@github.com:donnemartin/data-science-ipython-notebooks.git
+git@github.com:trekhleb/homemade-machine-learning.git
+git@github.com:academic/awesome-datascience.git
+git@github.com:kmario23/deep-learning-drizzle.git
+git@github.com:ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.git
+git@github.com:Machine-Learning-Tokyo/Interactive_Tools.git
